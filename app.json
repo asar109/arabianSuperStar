@@ -18,15 +18,19 @@
       "supportsTablet": true
     },
     "android": {
-       "package": "com.asarAhmed.arabiansuperstar",
-      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.asar_109.myapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "196bbd20-3119-4d31-b7ef-9e91c8ec7025"
+      }
     }
   }
 }
